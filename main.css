@@ -1,0 +1,32 @@
+
+.header{
+    width: 400px;
+    margin: 30px auto;
+    color: rgb(221, 83, 117);
+}
+.header-2{
+    color:rgb(7, 100, 20)
+}
+.box{
+    width: 300px;
+    margin: auto;
+    background-color:grey;
+    padding: 20px;
+    border-radius: 15px;
+}
+img{
+
+    width: 100%;
+}
+p{
+   font-size:11px;
+}
+b{
+    color: rgb(87, 19, 19);
+}
+button{
+    background-color: rgb(31, 124, 36);
+    color: white;
+    font-size: 12px;
+    border-radius:5px;
+}
